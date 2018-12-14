@@ -1,9 +1,9 @@
 # Silvermine S3 Utilities
 
-[![Build Status](https://travis-ci.org/silvermine/s3-utils.png?branch=master)](https://travis-ci.org/silvermine/s3-utils)
+[![Build Status](https://travis-ci.org/silvermine/s3-utils.svg?branch=master)](https://travis-ci.org/silvermine/s3-utils)
 [![Coverage Status](https://coveralls.io/repos/github/silvermine/s3-utils/badge.svg?branch=master)](https://coveralls.io/github/silvermine/s3-utils?branch=master)
-[![Dependency Status](https://david-dm.org/silvermine/s3-utils.png)](https://david-dm.org/silvermine/s3-utils)
-[![Dev Dependency Status](https://david-dm.org/silvermine/s3-utils/dev-status.png)](https://david-dm.org/silvermine/s3-utils#info=devDependencies&view=table)
+[![Dependency Status](https://david-dm.org/silvermine/s3-utils.svg)](https://david-dm.org/silvermine/s3-utils)
+[![Dev Dependency Status](https://david-dm.org/silvermine/s3-utils/dev-status.svg)](https://david-dm.org/silvermine/s3-utils#info=devDependencies&view=table)
 
 
 ## What is it?
