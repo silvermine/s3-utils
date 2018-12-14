@@ -1,5 +1,5 @@
 {
-  "name": "silvermine-s3-utils",
+  "name": "@silvermine/s3-utils",
   "version": "0.1.0",
   "description": "Utilities functions for working with AWS S3",
   "scripts": {
