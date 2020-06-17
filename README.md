@@ -19,7 +19,7 @@ in your code. They are all well-tested, small, and stable. Here's an example of
 how you would use them:
 
 ```js
-var conditionalPut = require('silvermine-s3-utils/conditionalPut');
+var conditionalPut = require('@silvermine/s3-utils/conditionalPut');
 
 return conditionalPut({ Bucket: 'foo', Key: 'bar' }, 'some-value');
 ```
