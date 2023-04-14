@@ -10,7 +10,7 @@ before_install: npm i -g npm@8.5.5
 script:
    - node --version
    - npm --version
-   - commitlint-travis
+   - npm run standards
    - npm test
 
 # For code coverage:
