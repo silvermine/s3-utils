@@ -4,7 +4,7 @@
   "description": "Utilities functions for working with AWS S3",
   "scripts": {
     "commitlint": "commitlint --from 0e3012a",
-    "test": "check-node-version --npm 6.13.4 && grunt standards && ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- -R spec 'tests/**/*.test.js'"
+    "test": "check-node-version --npm 8.5.5 && grunt standards && ./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- -R spec 'tests/**/*.test.js'"
   },
   "author": "Jeremy Thomerson",
   "license": "MIT",
